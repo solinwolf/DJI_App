@@ -1,3 +1,6 @@
+-----------------------
+英文版
+-----------------------
 #DJI_App
 software of DJI developer challenge   
 #HOW TO USE
@@ -7,9 +10,12 @@ software of DJI developer challenge
 The excutable locates at "output" directory
 
 
+
+-----------------------
+中文版
+-----------------------
 #DJI_App
 大疆开发者大赛软件
-
 #如何使用
    1. cd src
    2. make
