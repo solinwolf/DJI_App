@@ -1,5 +1,5 @@
 -----------------------
-英文版
+English
 -----------------------
 #DJI_App
 software of DJI developer challenge   
