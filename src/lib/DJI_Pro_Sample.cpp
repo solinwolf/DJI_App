@@ -12,13 +12,13 @@
 #include <unistd.h>
 #include <pthread.h>
 #include <math.h>
-#include "include/DJI_Pro_Sample.h"       
+#include "../include/DJI_Pro_Sample.h"       
 
 #if (defined(PLATFORM_LINUX) && defined(TINYXML_CFG))
 #include <stdio.h>
 #include <unistd.h>
 #include <signal.h>
-#include "include/tinyxml2.h"
+#include "../include/tinyxml2.h"
 using namespace tinyxml2;
 using namespace std;
 #endif
