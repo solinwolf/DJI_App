@@ -23,7 +23,7 @@ $(TARGET) : $(OBJECTS)
 lib/lib.o : lib/*.cpp	
 	@cd $(SRCDIR)/lib && make
 	
-	
+#clean commands	clean object files
 .PHONY:clean
 clean:
 	@cd $(SRCDIR)/lib && make clean
