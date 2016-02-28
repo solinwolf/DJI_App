@@ -8,7 +8,7 @@ $(out) : $(objects)
 	
 %.o : %.cpp
 	$(CXX) -c $(CFLAGS) $^ -o $@
-#clean commands
+#clean commands clean object files
 .PHONY:clean
 clean:
 	rm -f $(objects)
