@@ -3,6 +3,7 @@ software of DJI developer challenge
 #HOW TO USE
    1. cd src
    2. make
+   
 The excutable locates at "output" directory
 
 
@@ -12,6 +13,7 @@ The excutable locates at "output" directory
 #如何使用
    1. cd src
    2. make
+   
 可执行文件位于 "output" 目录
 
 
